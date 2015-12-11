@@ -24,6 +24,10 @@ config = {
             }
           }, 
           {
+            test: /\.scss$/,
+            loaders: ["style", "css", "sass"]
+          },
+          {
             test: /\.css$/, // Only .css files
             loader: 'style!css' // Run both loaders
           }

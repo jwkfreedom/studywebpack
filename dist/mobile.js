@@ -1,0 +1,1 @@
+webpackJsonp([1],[function(e,t,l){"use strict";function n(e){return e&&e.__esModule?e:{"default":e}}function u(){d["default"].render(d["default"].createElement("div",null,d["default"].createElement("h1",null,"mobile"),d["default"].createElement(f["default"],null)),document.getElementById("app"))}var a=l(33),d=n(a),c=l(53),f=n(c);u()}]);
